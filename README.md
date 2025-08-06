@@ -2,18 +2,19 @@
 
 ### Locally
 
+Use **cd** to navigate into any theme set directory you want, then run :
 ```
-sudo cp -r themes/* ~/.themes
+sudo cp -r * ~/.themes
 ```
 or 
 
 ```
-sudo cp -r themes/* ~/.local/share/themes
+sudo cp -r * ~/.local/share/themes
 ```
 
 ### Systemd-Wide
 
 ```
-sudo cp -r themes/* /usr/share/themes
+sudo cp -r * /usr/share/themes
 ```
 

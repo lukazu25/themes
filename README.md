@@ -12,7 +12,7 @@ or
 sudo cp -r * ~/.local/share/themes
 ```
 
-### Systemd-Wide
+### System-Wide
 
 ```
 sudo cp -r * /usr/share/themes
